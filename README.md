@@ -1,1 +1,1 @@
-# Azure-PANW-CommonFW-Infrastructure
+# azureinfrastructure

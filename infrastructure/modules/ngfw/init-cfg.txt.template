@@ -1,0 +1,8 @@
+panorama-server=${panorama-server1}
+tplname=${template-stack}
+dgname=${device-group}
+dhcp-accept-server-hostname=yes
+dhcp-accept-server-domain=yes
+plugin-op-commands=panorama-licensing-mode-on,numa-perf-optimize:enable
+auth-key=${auth-key}
+type=dhcp-client
